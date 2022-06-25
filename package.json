@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Rodrigo-Tozatti/Teste-ebac-ui#readme",
   "dependencies": {
-    "cypress": "^10.1.0"
+    "@faker-js/faker": "^7.3.0",
+    "cypress": "^10.1.0",
+    "faker": "^5.5.3"
   }
 }
